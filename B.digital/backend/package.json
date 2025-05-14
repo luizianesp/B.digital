@@ -1,5 +1,5 @@
 {
-    "name": "bibliotech-backend",
+    "name": "B.Digital-backend",
     "version": "1.0.0",
     "description": "API REST para gerenciamento de biblioteca digital com persistência em arquivo",
     "main": "index.js",
