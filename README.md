@@ -96,4 +96,4 @@ PROJETO/
 
 ## Vídeo Explicativo
 
-Para uma explicação detalhada do funcionamento do sistema, assista ao [vídeo explicativo](LINK_DO_VIDEO).
+Para uma explicação detalhada do funcionamento do sistema, assista ao [vídeo explicativo](https://youtu.be/5xf_z-ytHpE).
