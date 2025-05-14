@@ -50,8 +50,8 @@ PROJETO/
 
 1. **Clone este repositório**
    ```bash
-   git clone [URL_DO_REPOSITORIO]
-   cd [b.Digital]
+   git clone https://github.com/luizianesp/B.digital.git
+   cd b.Digital
    ```
 
 2. **Instale as dependências do back-end**
